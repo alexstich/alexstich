@@ -2,7 +2,7 @@
 
 My name is Aleksei and I'm iOS developer and a bit backend developer 
 
-- 🛠 6 years of experience in development
+- 🛠 8 years of experience in development
 - 🔭 Currently working on [RuCode](http://rucode.org/) as an iOS developer
 - 💬 Ask me about Swift, CocoaPods, UIKit, PHP and Yii2
 - 📫 How to reach me: https://t.me/avgrebenkin
