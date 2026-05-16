@@ -1,9 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-My name is Aleksei and I'm iOS developer and a bit backend developer 
+My name is Alekseнн and I'm founder & CEO Speak-Y - Voice tool for your productivity 
 
 - 🛠 8 years of experience in development
-- 🔭 Currently working on [RuCode](http://rucode.org/) as an iOS developer
+- 🔭 Currently run the startup [Speak-Y](http://speak-y.com/) 
 - 💬 Ask me about Swift, CocoaPods, UIKit, PHP and Yii2
 - 📫 How to reach me: https://t.me/avgrebenkin
 
